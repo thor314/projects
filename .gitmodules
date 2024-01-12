@@ -1,0 +1,15 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/thor314/blog
+[submodule "pebble-stark"]
+	path = pebble-stark
+	url = https://github.com/thor314/pebble-stark
+[submodule "obsidian-setup"]
+	path = obsidian-setup
+	url = https://github.com/thor314/obsidian-setup
+[submodule "stone-prover"]
+	path = stone-prover
+	url = https://github.com/starkware-libs/stone-prover.git
+[submodule "tmpl"]
+	path = tmpl
+	url = https://github.com/thor314/tmpl
