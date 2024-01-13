@@ -6,7 +6,7 @@
 	url = git@github.com:thor314/pebble-stark.git
 [submodule "obsidian-setup"]
 	path = obsidian-setup
-	url = https://github.com/thor314/obsidian-setup
+	url = git@github.com:thor314/obsidian-setup.git
 [submodule "tmpl"]
 	path = tmpl
-	url = https://github.com/thor314/tmpl
+	url = git@github.com:thor314/tmpl.git
