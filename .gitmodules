@@ -10,3 +10,6 @@
 [submodule "obsidian-setup"]
 	path = obsidian-setup
 	url = git@github.com:thor314/obsidian-setup.git
+[submodule "puzzles"]
+	path = puzzles
+	url = git@github.com:thor314/puzzles/.git
