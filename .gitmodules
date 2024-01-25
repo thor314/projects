@@ -13,3 +13,6 @@
 [submodule "puzzles"]
 	path = puzzles
 	url = git@github.com:thor314/puzzles/.git
+[submodule "zkhn"]
+	path = zkhn
+	url = git@github.com:thor314/zkhn.git
