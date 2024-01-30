@@ -13,3 +13,6 @@
 [submodule "tk-cargo-generate"]
 	path = tk-cargo-generate
 	url = git@github.com:thor314/tk-cargo-generate.git
+[submodule "puzzles"]
+	path = puzzles
+	url = git@github.com:thor314/puzzles.git
