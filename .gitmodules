@@ -25,3 +25,6 @@
 [submodule "hufflepuff"]
 	path = hufflepuff
 	url = git@github.com:thor314/hufflepuff.git
+[submodule "github_hack"]
+	path = github_hack
+	url = git@github.com:thor314/github_hack.git
