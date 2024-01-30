@@ -22,3 +22,6 @@
 [submodule "NEPs"]
 	path = NEPs
 	url = git@github.com:thor314/NEPs.git
+[submodule "hufflepuff"]
+	path = hufflepuff
+	url = git@github.com:thor314/hufflepuff.git
