@@ -4,9 +4,9 @@
 [submodule "pebble-stark"]
 	path = pebble-stark
 	url = git@github.com:thor314/pebble-stark.git
-[submodule "tmpl"]
-	path = tmpl
-	url = git@github.com:thor314/tmpl.git
+[submodule "tk-cargo-generate"]
+	path = tk-cargo-generate
+	url = git@github.com:thor314/tk-cargo-generate.git
 [submodule "obsidian-setup"]
 	path = obsidian-setup
 	url = git@github.com:thor314/obsidian-setup.git
