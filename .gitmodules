@@ -16,3 +16,6 @@
 [submodule "puzzles"]
 	path = puzzles
 	url = git@github.com:thor314/puzzles.git
+[submodule "bin/tk-blog-publish"]
+	path = bin/tk-blog-publish
+	url = git@github.com:thor314/tk-blog-publish.git
