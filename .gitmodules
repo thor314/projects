@@ -25,6 +25,3 @@
 [submodule "hotkeys-for-tab-stuff"]
 	path = hotkeys-for-tab-stuff
 	url = git@github.com:thor314/hotkeys-for-tab-stuff.git
-[submodule "puzzles"]
-	path = puzzles
-	url = git@github.com:thor314/puzzles.git
