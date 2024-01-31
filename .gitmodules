@@ -25,3 +25,6 @@
 [submodule "github_hack"]
 	path = github_hack
 	url = git@github.com:thor314/github_hack.git
+[submodule "hotkeys-for-tab-stuff"]
+	path = hotkeys-for-tab-stuff
+	url = git@github.com:thor314/hotkeys-for-tab-stuff.git
