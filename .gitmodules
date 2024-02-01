@@ -19,9 +19,9 @@
 [submodule "hufflepuff"]
 	path = hufflepuff
 	url = git@github.com:thor314/hufflepuff.git
-[submodule "github_hack"]
-	path = github_hack
-	url = git@github.com:thor314/github_hack.git
+[submodule "github_name"]
+	path = github_name
+	url = git@github.com:thor314/github_name.git
 [submodule "hotkeys-for-tab-stuff"]
 	path = hotkeys-for-tab-stuff
 	url = git@github.com:thor314/hotkeys-for-tab-stuff.git
