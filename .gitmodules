@@ -28,3 +28,6 @@
 [submodule "rdrop"]
 	path = rdrop
 	url = git@github.com:thor314/rdrop.git
+[submodule "resume"]
+	path = resume
+	url = git@github.com:thor314/resume.git
